@@ -24,7 +24,7 @@
     '#B2E2F5', // light blue
     '#622879', // purple
     '#EDCE17', // yellow
-    '#ED513C',  // dark orange
+    '#ED513C',  // orange
     '#10516C' // dark blue
   ];
 
